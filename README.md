@@ -1,6 +1,8 @@
 # GitHub Flow Exercise
 
 ## Add anything below this line
+Happy holidays!🎄
+=======
 Preparation
 Familiarize with GitFlow, GitHub Flow and Trunk Base Development. Git CLI commands will be used in this lesson.
 
