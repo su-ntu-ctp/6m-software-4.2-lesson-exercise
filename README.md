@@ -1,6 +1,15 @@
 # GitHub Flow Exercise
 
 ## Add anything below this line
+
+```
+   __
+o-''|\_____/)
+ \_/|_)     )
+    \  __  /
+    (_/ (_/    woof
+```
+
 Preparation
 Familiarize with GitFlow, GitHub Flow and Trunk Base Development. Git CLI commands will be used in this lesson.
 
