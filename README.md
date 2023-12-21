@@ -2,7 +2,10 @@
 
 ## Add anything below this line
 
+
 hello
+
+TESTING adding in text for Branching strategy lesson:Part 4 - Simulate a GitHub Flow
 
 Preparation
 Familiarize with GitFlow, GitHub Flow and Trunk Base Development. Git CLI commands will be used in this lesson.
