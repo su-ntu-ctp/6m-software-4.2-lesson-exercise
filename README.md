@@ -12,3 +12,7 @@ Lesson Overview
 This lesson aims to help learners understand the concepts of the common branching strategies and tell the differences between them. The lesson will also simulate GitHub flow where learners will be making changes to a code base and create pull request to the remote branch.
 ===
 Siti is awesome
+
+Why did the Java developer teach his young kids about single quotes?
+Because they build character.
+
