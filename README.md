@@ -12,4 +12,10 @@ This lesson aims to help learners understand the concepts of the common branchin
 ===
 Siti is awesome
 
-maddyyydyydydydydydydydyyyyyyy
+
+          へ   ♡   ╱|、
+     ૮  -   ՛ )      (`   -  7
+       /   ⁻  ៸|       |、⁻〵
+ 乀 (ˍ, ل ل      じしˍ,)ノ
+
+ ket
