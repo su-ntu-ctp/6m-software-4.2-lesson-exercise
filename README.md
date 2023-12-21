@@ -2,7 +2,6 @@
 
 ## Add anything below this line
 
-
 TESTING adding in text for Branching strategy lesson:Part 4 - Simulate a GitHub Flow
 
 Preparation
@@ -11,13 +10,14 @@ Familiarize with GitFlow, GitHub Flow and Trunk Base Development. Git CLI comman
 Lesson Overview
 This lesson aims to help learners understand the concepts of the common branching strategies and tell the differences between them. The lesson will also simulate GitHub flow where learners will be making changes to a code base and create pull request to the remote branch.
 
-
 Siti is awesome
-
 
          へ   ♡  ╱|、
      ૮ -  ՛ )   (` - 7
     /   ⁻ ៸|     |、⁻〵
- 乀 (ˍ, ل ل      じしˍ,)ノ
 
- ket
+乀 (ˍ, ل ل じし ˍ,)ノ
+
+ket
+
+goes meow meow
