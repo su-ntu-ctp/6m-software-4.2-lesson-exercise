@@ -10,21 +10,6 @@ This lesson aims to help learners understand the concepts of the common branchin
 ===
 Siti is awesome
 
-
-Programming language of the old guard, Java,
-With your verbose syntax and need for semi-colons,
-You keep us entertained, even as we struggle to get our code to compile.
-
-Your tendency to throw exceptions at the most inopportune times
-Makes us chuckle, even as we curse your name.
-And your love for long, winding class names
-Makes us appreciate the moments when our code actually runs without a hitch.
-
-Despite your quirks, Java, we still love you,
-For without you, many of our favorite apps wouldn’t exist.
-You bring stability and reliability to the world of software development,
-And make it possible for us to build complex systems with ease.
-
-So here’s to you, Java, our trusty, verbose old friend,
-May your quirks continue to make us laugh, until the very end.
+Why did the Java developer teach his young kids about single quotes?
+Because they build character.
 
