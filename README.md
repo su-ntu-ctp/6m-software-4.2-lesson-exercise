@@ -12,3 +12,20 @@ Lesson Overview
 This lesson aims to help learners understand the concepts of the common branching strategies and tell the differences between them. The lesson will also simulate GitHub flow where learners will be making changes to a code base and create pull request to the remote branch.
 ===
 Siti is awesome
+    _\/_
+     /\
+     /\
+    /  \
+    /~~\o
+   /o   \
+  /~~*~~~\
+ o/    o \
+ /~~~~~~~~\~`
+/__*_______\
+     ||
+   \====/
+    \__/
+    \__/
+     ||
+     ||
+Merry Christmas and a happy new year
