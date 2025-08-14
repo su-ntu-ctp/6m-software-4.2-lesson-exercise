@@ -1,4 +1,5 @@
-git add <file> <directory>
-git clone <remote url for github / gitlab>
-git commit -m "<commit message>" // commit with a message
-git push 
+# GitHub Flow Exercise
+
+## Add anything below this line
+
+Hey everyone, Esther here!
