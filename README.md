@@ -2,5 +2,5 @@
 
 ## Add anything below this line
 
-Hey everyone, Esther here!
-!!!!!
+Hey everyone, Stephen here!
+This is a great Lesson!
