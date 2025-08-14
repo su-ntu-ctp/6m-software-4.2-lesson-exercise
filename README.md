@@ -1,5 +1,4 @@
-# GitHub Flow Exercise
-
-## Add anything below this line
-
-Hey everyone, Shen Nan here! Very Happy to see you!
+git add <file> <directory>
+git clone <remote url for github / gitlab>
+git commit -m "<commit message>" // commit with a message
+git push 
